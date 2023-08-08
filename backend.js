@@ -11,5 +11,4 @@ server.listen(3000);
 res.write("<h1>Hallo<\h1>");
 
     res.end();
-}
 
